@@ -9,10 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: AIS Connection ORBCOMM
+  - name: AIS Connection ORBCOMM
     url: globalais2.orbcomm.net
     port: 9047
-  - name: AIS Connection SPIRE
+  - name: AIS Connection SPIRE
     url: streamingv2.ais.spire.com
     port: 56784
 #  - name: IPv6 test
