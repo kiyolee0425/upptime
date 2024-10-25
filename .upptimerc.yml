@@ -12,9 +12,11 @@ sites:
   - name: AIS Connection ORBCOMM
     url: globalais2.orbcomm.net
     port: 9047
+    check: "tcp-ping"
   - name: AIS Connection SPIRE
     url: streamingv2.ais.spire.com
     port: 56784
+    check: "tcp-ping"
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
