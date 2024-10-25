@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ais-connection-orbcomm",
     "status": "up",
-    "uptime": "8.81%",
-    "uptimeDay": "8.81%",
-    "uptimeWeek": "8.81%",
-    "uptimeMonth": "8.81%",
-    "uptimeYear": "8.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 7,
     "timeDay": 7,
     "timeWeek": 7,
     "timeMonth": 7,
     "timeYear": 7,
-    "dailyMinutesDown": {
-      "2024-10-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AIS Connection SPIRE",
@@ -79,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ais-connection-spire",
     "status": "up",
-    "uptime": "8.09%",
-    "uptimeDay": "8.09%",
-    "uptimeWeek": "8.09%",
-    "uptimeMonth": "8.09%",
-    "uptimeYear": "8.09%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 79,
     "timeWeek": 79,
     "timeMonth": 79,
     "timeYear": 79,
-    "dailyMinutesDown": {
-      "2024-10-25": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
