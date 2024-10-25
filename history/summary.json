@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1239,
-    "timeDay": 1239,
-    "timeWeek": 1239,
-    "timeMonth": 1239,
-    "timeYear": 1239,
+    "time": 1288,
+    "timeDay": 1288,
+    "timeWeek": 1288,
+    "timeMonth": 1288,
+    "timeYear": 1288,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 314,
+    "timeDay": 314,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "AIS Connection ORBCOMM",
+    "url": "globalais2.orbcomm.net",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ais-connection-orbcomm",
+    "status": "down",
+    "uptime": "48.87%",
+    "uptimeDay": "48.87%",
+    "uptimeWeek": "48.87%",
+    "uptimeMonth": "48.87%",
+    "uptimeYear": "48.87%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-10-25": 1
+    }
+  },
+  {
+    "name": "AIS Connection SPIRE",
+    "url": "streamingv2.ais.spire.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ais-connection-spire",
+    "status": "down",
+    "uptime": "89.73%",
+    "uptimeDay": "89.73%",
+    "uptimeWeek": "89.73%",
+    "uptimeMonth": "89.73%",
+    "uptimeYear": "89.73%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   }
 ]
